@@ -1,0 +1,21 @@
+ls
+touch
+cat
+echo
+ls-a
+ls-l
+mkdir
+clear
+cd
+cd ../
+cd -
+rm
+rm -r
+gzip
+grep
+cp
+mv
+man
+vi
+nano
+
